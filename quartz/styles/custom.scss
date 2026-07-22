@@ -1,15 +1,38 @@
 @use "./base.scss";
 
-// put your custom CSS here!
-
 /* =========================================
    CUSTOM AESTHETICS - MODERN TECH VIBE
    ========================================= */
 
-/* 1. Custom Scrollbar (Slim & Elegant) */
+/* 1. Navbar / Header */
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem 2rem;
+  background: rgba(9, 9, 11, 0.7);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  width: 100%;
+}
+
+.page-title {
+  margin: 0;
+  font-size: 1.5rem;
+  font-weight: 700;
+  background: linear-gradient(135deg, #fff, #a1a1aa);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* 2. Custom Scrollbar (Slim & Elegant) */
 ::-webkit-scrollbar {
-  width: 8px;
-  height: 8px;
+  width: 6px;
+  height: 6px;
 }
 ::-webkit-scrollbar-track {
   background: transparent;
@@ -22,74 +45,95 @@
   background-color: var(--gray);
 }
 
-/* 2. Glassmorphism for Left Sidebar & Popovers */
-@media all and (min-width: 1200px) {
-  .left.sidebar {
-    background: rgba(9, 9, 11, 0.6); /* Translucent dark background */
-    backdrop-filter: blur(12px);
-    -webkit-backdrop-filter: blur(12px);
-    border-right: 1px solid rgba(255, 255, 255, 0.05);
-    padding-right: 2rem;
-    box-shadow: 4px 0 24px rgba(0, 0, 0, 0.2);
-    position: sticky;
-    top: 0;
-    z-index: 10;
-  }
+/* 3. Reveal on Scroll Animation */
+.reveal-element {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 0.6s cubic-bezier(0.16, 1, 0.3, 1), transform 0.6s cubic-bezier(0.16, 1, 0.3, 1);
+  will-change: opacity, transform;
+}
+.reveal-element.revealed {
+  opacity: 1;
+  transform: translateY(0);
 }
 
-.popover {
-  background: rgba(9, 9, 11, 0.85) !important;
-  backdrop-filter: blur(16px) !important;
-  -webkit-backdrop-filter: blur(16px) !important;
-  border: 1px solid rgba(255, 255, 255, 0.1) !important;
-  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4) !important;
-  border-radius: 12px !important;
+/* 4. Glowing Cursor Background */
+#cursor-glow {
+  position: fixed;
+  width: 600px;
+  height: 600px;
+  background: radial-gradient(circle, rgba(59,130,246,0.15) 0%, rgba(0,0,0,0) 70%);
+  border-radius: 50%;
+  pointer-events: none;
+  transform: translate(-50%, -50%);
+  z-index: 0;
+  display: none;
 }
 
-/* 3. Micro-animations and Hover Effects */
-a {
-  transition: color 0.2s ease, text-shadow 0.2s ease;
+/* 5. Content Layout adjustments */
+.center {
+  z-index: 1;
+  position: relative;
+  max-width: 800px;
+  margin: 0 auto;
 }
 
+/* 6. Hover effects & Micro-animations */
 a.internal {
   text-decoration-color: transparent;
   transition: all 0.2s ease;
 }
-
 a.internal:hover {
   text-decoration-color: var(--secondary);
   text-shadow: 0 0 8px rgba(59, 130, 246, 0.4);
 }
 
-/* Sidebar explorer links animation */
 .explorer ul li a {
   transition: transform 0.2s ease, color 0.2s ease;
   display: inline-block;
 }
-
 .explorer ul li a:hover {
   transform: translateX(4px);
   color: var(--secondary);
 }
 
-/* 4. Subtle Text Glow on Headers */
-h1, h2, h3 {
-  letter-spacing: -0.02em;
+/* 7. Blockquotes / Callouts with Tilt/Border */
+blockquote, .callout {
+  position: relative;
+  border: 1px solid rgba(255,255,255,0.05);
+  background: rgba(255,255,255,0.02) !important;
+  backdrop-filter: blur(10px);
+  border-radius: 12px;
+  padding: 1.5rem;
+  margin: 2rem 0;
+  transition: transform 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease;
+}
+blockquote:hover, .callout:hover {
+  transform: translateY(-2px);
+  border-color: rgba(59, 130, 246, 0.3);
+  box-shadow: 0 8px 30px rgba(0,0,0,0.2);
 }
 
-h1.article-title {
-  background: linear-gradient(to right, #ffffff, #a1a1aa);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  text-shadow: 0 2px 12px rgba(255, 255, 255, 0.1);
+/* 8. Audio Player custom skin (for NotebookLM) */
+audio {
+  width: 100%;
+  height: 48px;
+  border-radius: 24px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.2);
+  margin: 2rem 0;
+  transition: transform 0.2s ease;
 }
-
-/* 5. Blockquotes Styling (more techy) */
-blockquote {
-  border-left: 3px solid var(--secondary);
-  background: var(--highlight);
-  border-radius: 0 8px 8px 0;
-  padding: 1rem 1.5rem;
-  margin: 1.5rem 0;
-  box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.02);
+audio:hover {
+  transform: scale(1.01);
+}
+audio::-webkit-media-controls-panel {
+  background: var(--lightgray);
+}
+audio::-webkit-media-controls-play-button {
+  background-color: var(--secondary);
+  border-radius: 50%;
+}
+audio::-webkit-media-controls-current-time-display,
+audio::-webkit-media-controls-time-remaining-display {
+  color: var(--dark);
 }

@@ -1,49 +1,57 @@
 ---
-title: Do Estudante ao Engenheiro de Software
+title: "Do Estudante ao Engenheiro de Software"
 ---
 
-# Do Estudante ao Engenheiro de Software
-
-> Uma coleção completa e autoral: **do zero ao mercado**, da mentalidade ao primeiro emprego. **119 capítulos**, 6 volumes, um único fio condutor — a **SaborExpress**, um app de delivery que nasce de uma ideia e chega à produção atendendo milhões.
-
-Bem-vindo(a). Este é um manual que preenche o buraco entre a teoria da faculdade e a prática do mercado. Cada conceito é explicado do zero, com analogia, exemplo real, erros comuns e exercícios. Use o **menu lateral** para navegar por volume, ou a **busca** (atalho `Ctrl/Cmd + K`) para achar qualquer assunto.
-
----
-
-## 📚 Os volumes
-
-**📘 [Volume 1 — Fundamentos e Mentalidade](Volume-1-Fundamentos/00-Indice)**
-Como estudar, o que é a profissão, como a empresa funciona e como é um dia real de trabalho. *(Capítulos 1–18)*
-
-**📗 [Volume 2 — A Base da Computação](Volume-2-Base-da-Computacao/00-Indice)**
-A máquina, o SO, o Linux, as redes, a lógica e a arte de ler código. *(Capítulos 19–40)*
-
-**📙 [Volume 3 — Desenvolvimento de Software](Volume-3-Desenvolvimento-de-Software/00-Indice)**
-Do requisito ao deploy: processos, UX, arquitetura, Git, banco, API, front, back e testes. *(Capítulos 41–83)*
-
-**📕 [Volume 4 — Engenharia Moderna](Volume-4-Engenharia-Moderna/00-Indice)**
-DevOps, cloud, observabilidade, escalabilidade, experimentação, segurança e IA. *(Capítulos 84–104)*
-
-**📓 [Volume 5 — Carreira e Projeto Integrador](Volume-5-Carreira-e-Projeto-Integrador/00-Indice)**
-O negócio, o desenvolvimento profissional, o mercado, o projeto completo e o seu futuro. *(Capítulos 105–119)*
-
-**🧰 [Volume 6 — Manual de Bolso](Volume-6-Manual-de-Bolso/00-Indice)**
-Referência rápida para o dia a dia: comandos (Git, terminal, Docker, SQL, HTTP), glossário, checklists, convenções e o guia do primeiro mês.
+<div style="text-align: center; margin-top: 4rem; margin-bottom: 4rem;">
+  <h1 class="page-title reveal-element" style="font-size: 3.5rem; margin-bottom: 1rem; line-height: 1.2;">
+    A jornada completa do zero <br/>ao mercado profissional.
+  </h1>
+  <p class="reveal-element" style="font-size: 1.25rem; color: var(--gray); max-width: 600px; margin: 0 auto 2.5rem auto;">
+    Uma coleção autoral: da base teórica da computação até arquiteturas modernas de nuvem e inteligência artificial, guiada pela construção de um aplicativo real.
+  </p>
+  <div class="reveal-element">
+    <a href="Volume-1-Fundamentos/00-Indice" style="display: inline-block; background: var(--secondary); color: #fff; padding: 14px 28px; border-radius: 8px; font-weight: bold; text-decoration: none; transition: transform 0.2s, box-shadow 0.2s; box-shadow: 0 4px 14px rgba(37,99,235,0.4);">
+      Iniciar Jornada (Vol. 1)
+    </a>
+  </div>
+</div>
 
 ---
 
-## 🧭 Por onde começar
+<div class="reveal-element" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; margin: 3rem 0;">
 
-- **Primeira vez?** Leia do **Volume 1** ao **5**, em ordem (capítulos 1 → 119).
-- **Procurando algo específico?** Use a **busca** ou pule direto para o capítulo pelo menu.
-- **Já trabalhando?** O **[Volume 6 — Manual de Bolso](Volume-6-Manual-de-Bolso/00-Indice)** é sua consulta rápida.
+  <a href="Volume-1-Fundamentos/00-Indice" class="internal callout" style="text-decoration: none; display: block; margin: 0;">
+    <h3 style="margin-top: 0; color: var(--secondary);">📘 Vol. 1: Fundamentos</h3>
+    <p style="margin-bottom: 0; font-size: 0.9rem; color: var(--gray);">O que é a profissão, como a empresa funciona e a mentalidade correta.</p>
+  </a>
 
----
+  <a href="Volume-2-Base-da-Computacao/00-Indice" class="internal callout" style="text-decoration: none; display: block; margin: 0;">
+    <h3 style="margin-top: 0; color: var(--secondary);">📗 Vol. 2: Base da Computação</h3>
+    <p style="margin-bottom: 0; font-size: 0.9rem; color: var(--gray);">Sistemas Operacionais, Redes, Lógica e a arte de ler código.</p>
+  </a>
 
-## O fio condutor: SaborExpress
+  <a href="Volume-3-Desenvolvimento-de-Software/00-Indice" class="internal callout" style="text-decoration: none; display: block; margin: 0;">
+    <h3 style="margin-top: 0; color: var(--secondary);">📙 Vol. 3: Engenharia</h3>
+    <p style="margin-bottom: 0; font-size: 0.9rem; color: var(--gray);">Do requisito ao deploy: processos, UX, arquitetura, Git, banco, API.</p>
+  </a>
 
-Um único estudo de caso atravessa toda a coleção: a **SaborExpress**, um app de delivery. Você a acompanha de uma ideia na cabeça da fundadora Ana até um sistema robusto, e no **Projeto Integrador** (Volume 5) ela é construída do zero à produção, aplicando tudo o que foi ensinado.
+  <a href="Volume-4-Engenharia-Moderna/00-Indice" class="internal callout" style="text-decoration: none; display: block; margin: 0;">
+    <h3 style="margin-top: 0; color: var(--secondary);">📕 Vol. 4: Eng. Moderna</h3>
+    <p style="margin-bottom: 0; font-size: 0.9rem; color: var(--gray);">DevOps, Cloud, Observabilidade, Segurança e IA aplicada.</p>
+  </a>
 
----
+  <a href="Volume-5-Carreira-e-Projeto-Integrador/00-Indice" class="internal callout" style="text-decoration: none; display: block; margin: 0;">
+    <h3 style="margin-top: 0; color: var(--secondary);">📓 Vol. 5: Carreira</h3>
+    <p style="margin-bottom: 0; font-size: 0.9rem; color: var(--gray);">O projeto SaborExpress completo, processos seletivos e evolução.</p>
+  </a>
 
-*Coleção autoral · 6 volumes · 119 capítulos + Manual de Bolso.*
+  <a href="Volume-6-Manual-de-Bolso/00-Indice" class="internal callout" style="text-decoration: none; display: block; margin: 0;">
+    <h3 style="margin-top: 0; color: var(--secondary);">🧰 Vol. 6: Guia Rápido</h3>
+    <p style="margin-bottom: 0; font-size: 0.9rem; color: var(--gray);">Referência de comandos, Docker, SQL, checklists e boas práticas.</p>
+  </a>
+
+</div>
+
+<div class="reveal-element" style="text-align: center; margin: 4rem 0 2rem 0; color: var(--gray); font-size: 0.9rem;">
+  <em>Coleção autoral · 6 volumes · 119 capítulos · Inclui Projeto Integrador</em>
+</div>
