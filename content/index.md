@@ -1,17 +1,16 @@
 ---
-title: "Do Estudante ao Engenheiro de Software"
+title: "Meu Guia de Sobrevivência Dev"
 ---
 
 <section class="home-hero">
-  <span class="home-hero__badge">Coleção autoral · 6 volumes</span>
-  <h1>A jornada completa do zero ao <span class="home-hero__accent">mercado profissional</span>.</h1>
+  <span class="home-hero__badge">Base de Conhecimento Pessoal · 6 Volumes</span>
+  <h1>Um guia de sobrevivência para não se perder na <span class="home-hero__accent">Engenharia de Software</span>.</h1>
   <p class="home-hero__lead">
-    Da base teórica da computação até arquiteturas modernas de nuvem e inteligência
-    artificial, guiada pela construção de um aplicativo real do início ao deploy.
+    Nasceu como meu "segundo cérebro" para consultar comandos, processos e fundamentos que a gente esquece no dia a dia de desenvolvedor. Agora, é um repositório aberto para ajudar a comunidade!
   </p>
   <div class="home-cta">
-    <a class="btn btn--primary" href="Volume-1-Fundamentos/00-Indice">Começar pelo Volume 1</a>
-    <a class="btn btn--ghost" href="Volume-6-Manual-de-Bolso/00-Indice">Ir ao manual de bolso</a>
+    <a class="btn btn--primary" href="Volume-1-Fundamentos/00-Indice">Explorar os volumes</a>
+    <a class="btn btn--ghost" href="Volume-6-Manual-de-Bolso/00-Indice">Consulta Rápida (Comandos)</a>
   </div>
 </section>
 

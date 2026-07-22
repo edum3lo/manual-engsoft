@@ -14,7 +14,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Do Estudante ao Engenheiro de Software",
+    pageTitle: "DevNotes | Engenharia de Software",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true, // pré-visualização ao passar o mouse nos links
