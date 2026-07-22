@@ -32,28 +32,31 @@ const config: QuartzConfig = {
         body: "Inter",
         code: "JetBrains Mono",
       },
+      // Paleta "Índigo + Âmbar".
+      // Os tokens extras (superfícies, sombras, âmbar) ficam em
+      // quartz/styles/custom.scss, no bloco :root do topo.
       colors: {
         lightMode: {
-          light: "#ffffff",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#2563eb", // Tailwind Blue 600
-          tertiary: "#3b82f6", // Tailwind Blue 500
-          highlight: "rgba(37, 99, 235, 0.1)",
-          textHighlight: "#fff23688",
+          light: "#faf9f6", // papel creme, não branco puro
+          lightgray: "#e7e3da", // bordas e divisórias
+          gray: "#8d8779", // texto secundário
+          darkgray: "#39364a", // corpo de texto
+          dark: "#16152b", // títulos
+          secondary: "#5b4bd6", // índigo (links, pastas)
+          tertiary: "#7c6cff", // índigo claro (hover)
+          highlight: "rgba(91, 75, 214, 0.08)",
+          textHighlight: "rgba(217, 119, 6, 0.25)", // marca-texto âmbar
         },
         darkMode: {
-          light: "#09090b", // Deep black background (zinc-950)
-          lightgray: "#27272a", // zinc-800 for borders
-          gray: "#71717a", // zinc-500 for muted text
-          darkgray: "#d4d4d4", // Main body text
-          dark: "#f4f4f5", // Bright headers
-          secondary: "#3b82f6", // Vibrant blue
-          tertiary: "#60a5fa", // Lighter blue
-          highlight: "rgba(59, 130, 246, 0.15)", // Translucent blue highlight
-          textHighlight: "rgba(59, 130, 246, 0.4)",
+          light: "#0f1120", // azul-noite profundo
+          lightgray: "#272b47",
+          gray: "#8b8fb3",
+          darkgray: "#c6cae6",
+          dark: "#f3f4fc",
+          secondary: "#8f80ff",
+          tertiary: "#b3a7ff",
+          highlight: "rgba(124, 108, 255, 0.14)",
+          textHighlight: "rgba(255, 180, 84, 0.32)",
         },
       },
     },
@@ -67,7 +70,7 @@ const config: QuartzConfig = {
       Plugin.SyntaxHighlighting({
         theme: {
           light: "github-light",
-          dark: "github-dark",
+          dark: "material-theme-palenight", // combina com o índigo do tema
         },
         keepBackground: false,
       }),

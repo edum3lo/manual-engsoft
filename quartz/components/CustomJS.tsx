@@ -2,7 +2,7 @@
 import script from "./scripts/custom.inline"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 
-const CustomJS: QuartzComponent = (props: QuartzComponentProps) => {
+const CustomJS: QuartzComponent = (_props: QuartzComponentProps) => {
   return null
 }
 
