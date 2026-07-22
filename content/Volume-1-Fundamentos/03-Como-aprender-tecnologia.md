@@ -1,3 +1,7 @@
+---
+title: '3 - Como aprender tecnologia (o método que não envelhece)'
+---
+
 # Capítulo 3 — Como aprender tecnologia (o método que não envelhece)
 
 > **Volume 1 — Fundamentos e Mentalidade** · Módulo 0 — Mentalidade e método de estudo

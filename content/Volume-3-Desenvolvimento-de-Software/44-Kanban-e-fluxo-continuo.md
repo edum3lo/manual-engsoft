@@ -1,3 +1,7 @@
+---
+title: '44 - Kanban e fluxo contínuo'
+---
+
 # Capítulo 44 — Kanban e fluxo contínuo
 
 > **Volume 3 — Desenvolvimento de Software** · Módulo 12 — Processos e Metodologias

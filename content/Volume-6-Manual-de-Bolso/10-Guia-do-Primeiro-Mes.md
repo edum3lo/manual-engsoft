@@ -1,3 +1,7 @@
+---
+title: '10 - Guia do primeiro mês (sobreviver e se dar bem)'
+---
+
 # 10 — Guia do primeiro mês (sobreviver e se dar bem)
 
 > Manual de Bolso · Volume 6. O que fazer nos primeiros 30 dias de um emprego/estágio para começar bem, aprender rápido e ganhar a confiança do time — sem se afogar na ansiedade.

@@ -1,3 +1,7 @@
+---
+title: '82 - TDD e testes automatizados'
+---
+
 # Capítulo 82 — TDD e testes automatizados
 
 > **Volume 3 — Desenvolvimento de Software** · Módulo 24 — Testes e Qualidade

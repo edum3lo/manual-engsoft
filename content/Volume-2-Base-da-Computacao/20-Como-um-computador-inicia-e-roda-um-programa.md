@@ -1,3 +1,7 @@
+---
+title: '20 - Como um computador inicia (boot) e roda um programa'
+---
+
 # Capítulo 20 — Como um computador inicia (boot) e roda um programa
 
 > **Volume 2 — A Base da Computação** · Módulo 4 — Como o computador funciona

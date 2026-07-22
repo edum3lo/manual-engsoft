@@ -1,3 +1,7 @@
+---
+title: '29 - "O que acontece quando você digita google.com?" ⭐'
+---
+
 # Capítulo 29 — "O que acontece quando você digita google.com?" ⭐
 
 > **Volume 2 — A Base da Computação** · Módulo 7 — Redes de Computadores

@@ -1,3 +1,7 @@
+---
+title: '08 - Convenções e boas práticas'
+---
+
 # 08 — Convenções e boas práticas
 
 > Manual de Bolso · Volume 6. As convenções que todo time espera que você siga — e os princípios que evitam código ruim.

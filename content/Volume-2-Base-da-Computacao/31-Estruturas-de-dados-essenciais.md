@@ -1,3 +1,7 @@
+---
+title: '31 - Estruturas de dados essenciais'
+---
+
 # Capítulo 31 — Estruturas de dados essenciais
 
 > **Volume 2 — A Base da Computação** · Módulo 8 — Lógica e Programação

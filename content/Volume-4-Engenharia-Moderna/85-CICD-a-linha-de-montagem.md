@@ -1,3 +1,7 @@
+---
+title: '85 - CI/CD: a linha de montagem'
+---
+
 # Capítulo 85 — CI/CD: a linha de montagem
 
 > **Volume 4 — Engenharia Moderna** · Módulo 25 — DevOps e Entrega Contínua

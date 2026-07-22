@@ -1,3 +1,7 @@
+---
+title: '61 - Git no dia a dia'
+---
+
 # Capítulo 61 — Git no dia a dia
 
 > **Volume 3 — Desenvolvimento de Software** · Módulo 17 — Git

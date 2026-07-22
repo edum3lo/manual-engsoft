@@ -1,3 +1,7 @@
+---
+title: '12 - Como nasce uma startup e como consegue investimento'
+---
+
 # Capítulo 12 — Como nasce uma startup e como consegue investimento
 
 > **Volume 1 — Fundamentos e Mentalidade** · Módulo 2 — Como funciona uma empresa de tecnologia

@@ -1,3 +1,7 @@
+---
+title: '112 - Soft skills, comunicação e salário'
+---
+
 # Capítulo 112 — Soft skills, comunicação e salário
 
 > **Volume 5 — Carreira e Projeto Integrador** · Módulo 35 — Mercado e Entrevistas Técnicas

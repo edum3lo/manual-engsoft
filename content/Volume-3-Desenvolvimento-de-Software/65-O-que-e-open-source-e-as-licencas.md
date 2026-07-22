@@ -1,3 +1,7 @@
+---
+title: '65 - O que é open source e as licenças'
+---
+
 # Capítulo 65 — O que é open source e as licenças
 
 > **Volume 3 — Desenvolvimento de Software** · Módulo 19 — Open Source

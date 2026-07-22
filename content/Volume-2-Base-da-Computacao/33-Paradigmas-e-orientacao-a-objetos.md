@@ -1,3 +1,7 @@
+---
+title: '33 - Paradigmas e Orientação a Objetos'
+---
+
 # Capítulo 33 — Paradigmas e Orientação a Objetos
 
 > **Volume 2 — A Base da Computação** · Módulo 8 — Lógica e Programação

@@ -1,3 +1,7 @@
+---
+title: '56 - Sequência, atividades e BPMN'
+---
+
 # Capítulo 56 — Sequência, atividades e BPMN
 
 > **Volume 3 — Desenvolvimento de Software** · Módulo 15 — Modelagem e Análise

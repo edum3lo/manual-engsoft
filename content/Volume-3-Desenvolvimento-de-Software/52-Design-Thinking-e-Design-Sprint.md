@@ -1,3 +1,7 @@
+---
+title: '52 - Design Thinking e Design Sprint'
+---
+
 # Capítulo 52 — Design Thinking e Design Sprint
 
 > **Volume 3 — Desenvolvimento de Software** · Módulo 14 — UX e Design de Produto

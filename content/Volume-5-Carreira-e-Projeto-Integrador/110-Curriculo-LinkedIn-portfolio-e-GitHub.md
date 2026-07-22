@@ -1,3 +1,7 @@
+---
+title: '110 - Currículo, LinkedIn, portfólio e GitHub'
+---
+
 # Capítulo 110 — Currículo, LinkedIn, portfólio e GitHub
 
 > **Volume 5 — Carreira e Projeto Integrador** · Módulo 35 — Mercado e Entrevistas Técnicas

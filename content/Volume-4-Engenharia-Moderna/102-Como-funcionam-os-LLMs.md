@@ -1,3 +1,7 @@
+---
+title: '102 - Como funcionam os LLMs'
+---
+
 # Capítulo 102 — Como funcionam os LLMs
 
 > **Volume 4 — Engenharia Moderna** · Módulo 32 — Inteligência Artificial para engenheiros

@@ -1,3 +1,7 @@
+---
+title: '53 - Figma, wireframes, protótipos e Design System'
+---
+
 # Capítulo 53 — Figma, wireframes, protótipos e Design System
 
 > **Volume 3 — Desenvolvimento de Software** · Módulo 14 — UX e Design de Produto

@@ -1,3 +1,7 @@
+---
+title: '84 - O que é DevOps ⭐'
+---
+
 # Capítulo 84 — O que é DevOps ⭐
 
 > **Volume 4 — Engenharia Moderna** · Módulo 25 — DevOps e Entrega Contínua

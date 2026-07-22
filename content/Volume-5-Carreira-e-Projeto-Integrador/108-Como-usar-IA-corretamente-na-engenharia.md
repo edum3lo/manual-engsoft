@@ -1,3 +1,7 @@
+---
+title: '108 - Como usar IA corretamente na engenharia'
+---
+
 # Capítulo 108 — Como usar IA corretamente na engenharia
 
 > **Volume 5 — Carreira e Projeto Integrador** · Módulo 34 — Desenvolvimento Profissional

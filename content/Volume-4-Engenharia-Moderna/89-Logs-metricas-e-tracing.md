@@ -1,3 +1,7 @@
+---
+title: '89 - Logs, métricas e tracing ⭐'
+---
+
 # Capítulo 89 — Logs, métricas e tracing ⭐
 
 > **Volume 4 — Engenharia Moderna** · Módulo 27 — Observabilidade

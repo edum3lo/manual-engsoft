@@ -1,3 +1,7 @@
+---
+title: '92 - De 100 a 1.000.000 de usuários: o que muda? ⭐'
+---
+
 # Capítulo 92 — De 100 a 1.000.000 de usuários: o que muda? ⭐
 
 > **Volume 4 — Engenharia Moderna** · Módulo 28 — Escalabilidade

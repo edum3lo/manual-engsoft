@@ -1,3 +1,7 @@
+---
+title: '45 - Estimativas, planejamento e ferramentas'
+---
+
 # Capítulo 45 — Estimativas, planejamento e ferramentas
 
 > **Volume 3 — Desenvolvimento de Software** · Módulo 12 — Processos e Metodologias

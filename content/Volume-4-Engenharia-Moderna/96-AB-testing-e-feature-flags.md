@@ -1,3 +1,7 @@
+---
+title: '96 - A/B testing e feature flags'
+---
+
 # Capítulo 96 — A/B testing e feature flags
 
 > **Volume 4 — Engenharia Moderna** · Módulo 29 — Engenharia Experimental

@@ -1,3 +1,7 @@
+---
+title: '28 - Protocolos e proteção'
+---
+
 # Capítulo 28 — Protocolos e proteção
 
 > **Volume 2 — A Base da Computação** · Módulo 7 — Redes de Computadores

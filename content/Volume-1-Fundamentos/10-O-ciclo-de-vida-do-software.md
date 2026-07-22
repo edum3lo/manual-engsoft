@@ -1,3 +1,7 @@
+---
+title: '10 - O ciclo de vida do software (SDLC)'
+---
+
 # Capítulo 10 — O ciclo de vida do software (SDLC)
 
 > **Volume 1 — Fundamentos e Mentalidade** · Módulo 1 — O que é ser um Engenheiro de Software

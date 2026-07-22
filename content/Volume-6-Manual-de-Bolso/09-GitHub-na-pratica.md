@@ -1,3 +1,7 @@
+---
+title: '09 - GitHub na prática (do zero à equipe)'
+---
+
 # 09 — GitHub na prática (do zero à equipe)
 
 > Manual de Bolso · Volume 6. As dúvidas que **todo mundo** tem no dia a dia: começar um projeto, subir a 1ª vez, clonar, o que cada comando faz, o passo a passo de uma alteração, o que **não** fazer em equipe, e como resolver os problemas mais comuns.

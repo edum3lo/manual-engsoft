@@ -1,3 +1,7 @@
+---
+title: '27 - Como a internet funciona'
+---
+
 # Capítulo 27 — Como a internet funciona
 
 > **Volume 2 — A Base da Computação** · Módulo 7 — Redes de Computadores

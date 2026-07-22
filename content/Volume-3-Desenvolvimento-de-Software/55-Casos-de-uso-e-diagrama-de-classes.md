@@ -1,3 +1,7 @@
+---
+title: '55 - Casos de uso e diagrama de classes'
+---
+
 # Capítulo 55 — Casos de uso e diagrama de classes
 
 > **Volume 3 — Desenvolvimento de Software** · Módulo 15 — Modelagem e Análise

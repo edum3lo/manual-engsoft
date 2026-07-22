@@ -1,3 +1,7 @@
+---
+title: '42 - O Manifesto Ágil'
+---
+
 # Capítulo 42 — O Manifesto Ágil
 
 > **Volume 3 — Desenvolvimento de Software** · Módulo 12 — Processos e Metodologias

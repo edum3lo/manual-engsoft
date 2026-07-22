@@ -1,3 +1,7 @@
+---
+title: '74 - Além de REST: GraphQL, gRPC, WebSocket, Webhooks'
+---
+
 # Capítulo 74 — Além de REST: GraphQL, gRPC, WebSocket, Webhooks
 
 > **Volume 3 — Desenvolvimento de Software** · Módulo 21 — APIs e Integração

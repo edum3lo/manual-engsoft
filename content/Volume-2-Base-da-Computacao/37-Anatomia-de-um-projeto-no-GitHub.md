@@ -1,3 +1,7 @@
+---
+title: '37 - Anatomia de um projeto no GitHub'
+---
+
 # Capítulo 37 — Anatomia de um projeto no GitHub
 
 > **Volume 2 — A Base da Computação** · Módulo 10 — Por dentro do código

@@ -1,3 +1,7 @@
+---
+title: '66 - Contribuindo com projetos abertos'
+---
+
 # Capítulo 66 — Contribuindo com projetos abertos
 
 > **Volume 3 — Desenvolvimento de Software** · Módulo 19 — Open Source

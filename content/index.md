@@ -2,56 +2,94 @@
 title: "Do Estudante ao Engenheiro de Software"
 ---
 
-<div style="text-align: center; margin-top: 4rem; margin-bottom: 4rem;">
-  <h1 class="page-title reveal-element" style="font-size: 3.5rem; margin-bottom: 1rem; line-height: 1.2;">
-    A jornada completa do zero <br/>ao mercado profissional.
-  </h1>
-  <p class="reveal-element" style="font-size: 1.25rem; color: var(--gray); max-width: 600px; margin: 0 auto 2.5rem auto;">
-    Uma coleção autoral: da base teórica da computação até arquiteturas modernas de nuvem e inteligência artificial, guiada pela construção de um aplicativo real.
+<section class="home-hero">
+  <span class="home-hero__badge">Coleção autoral · 6 volumes</span>
+  <h1>A jornada completa do zero ao <span class="home-hero__accent">mercado profissional</span>.</h1>
+  <p class="home-hero__lead">
+    Da base teórica da computação até arquiteturas modernas de nuvem e inteligência
+    artificial, guiada pela construção de um aplicativo real do início ao deploy.
   </p>
-  <div class="reveal-element">
-    <a href="Volume-1-Fundamentos/00-Indice" style="display: inline-block; background: var(--secondary); color: #fff; padding: 14px 28px; border-radius: 8px; font-weight: bold; text-decoration: none; transition: transform 0.2s, box-shadow 0.2s; box-shadow: 0 4px 14px rgba(37,99,235,0.4);">
-      Iniciar Jornada (Vol. 1)
-    </a>
+  <div class="home-cta">
+    <a class="btn btn--primary" href="Volume-1-Fundamentos/00-Indice">Começar pelo Volume 1</a>
+    <a class="btn btn--ghost" href="Volume-6-Manual-de-Bolso/00-Indice">Ir ao manual de bolso</a>
+  </div>
+</section>
+
+<div class="home-stats">
+  <div class="home-stat">
+    <span class="home-stat__value">6</span>
+    <span class="home-stat__label">Volumes</span>
+  </div>
+  <div class="home-stat">
+    <span class="home-stat__value">119</span>
+    <span class="home-stat__label">Capítulos</span>
+  </div>
+  <div class="home-stat">
+    <span class="home-stat__value">10</span>
+    <span class="home-stat__label">Fichas de bolso</span>
+  </div>
+  <div class="home-stat">
+    <span class="home-stat__value">1</span>
+    <span class="home-stat__label">Projeto integrador</span>
   </div>
 </div>
 
----
+<p class="home-section-title">Os volumes</p>
 
-<div class="reveal-element" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; margin: 3rem 0;">
+<div class="volume-grid">
 
-  <a href="Volume-1-Fundamentos/00-Indice" class="internal callout" style="text-decoration: none; display: block; margin: 0;">
-    <h3 style="margin-top: 0; color: var(--secondary);">📘 Vol. 1: Fundamentos</h3>
-    <p style="margin-bottom: 0; font-size: 0.9rem; color: var(--gray);">O que é a profissão, como a empresa funciona e a mentalidade correta.</p>
+  <a class="volume-card" href="Volume-1-Fundamentos/00-Indice">
+    <span class="volume-card__num">VOL. 01<span class="volume-card__count">18 capítulos</span></span>
+    <span class="volume-card__title">Fundamentos</span>
+    <span class="volume-card__desc">O que é a profissão, como uma empresa de software funciona e a mentalidade certa para começar.</span>
+    <span class="volume-card__topics">Capítulos 1 a 18</span>
   </a>
 
-  <a href="Volume-2-Base-da-Computacao/00-Indice" class="internal callout" style="text-decoration: none; display: block; margin: 0;">
-    <h3 style="margin-top: 0; color: var(--secondary);">📗 Vol. 2: Base da Computação</h3>
-    <p style="margin-bottom: 0; font-size: 0.9rem; color: var(--gray);">Sistemas Operacionais, Redes, Lógica e a arte de ler código.</p>
+  <a class="volume-card" href="Volume-2-Base-da-Computacao/00-Indice">
+    <span class="volume-card__num">VOL. 02<span class="volume-card__count">22 capítulos</span></span>
+    <span class="volume-card__title">Base da Computação</span>
+    <span class="volume-card__desc">Sistemas operacionais, redes, lógica, estruturas de dados e a arte de ler código dos outros.</span>
+    <span class="volume-card__topics">Capítulos 19 a 40</span>
   </a>
 
-  <a href="Volume-3-Desenvolvimento-de-Software/00-Indice" class="internal callout" style="text-decoration: none; display: block; margin: 0;">
-    <h3 style="margin-top: 0; color: var(--secondary);">📙 Vol. 3: Engenharia</h3>
-    <p style="margin-bottom: 0; font-size: 0.9rem; color: var(--gray);">Do requisito ao deploy: processos, UX, arquitetura, Git, banco, API.</p>
+  <a class="volume-card" href="Volume-3-Desenvolvimento-de-Software/00-Indice">
+    <span class="volume-card__num">VOL. 03<span class="volume-card__count">43 capítulos</span></span>
+    <span class="volume-card__title">Desenvolvimento de Software</span>
+    <span class="volume-card__desc">Do requisito ao deploy: processo, UX, arquitetura, Git, banco de dados, API e testes.</span>
+    <span class="volume-card__topics">Capítulos 41 a 83</span>
   </a>
 
-  <a href="Volume-4-Engenharia-Moderna/00-Indice" class="internal callout" style="text-decoration: none; display: block; margin: 0;">
-    <h3 style="margin-top: 0; color: var(--secondary);">📕 Vol. 4: Eng. Moderna</h3>
-    <p style="margin-bottom: 0; font-size: 0.9rem; color: var(--gray);">DevOps, Cloud, Observabilidade, Segurança e IA aplicada.</p>
+  <a class="volume-card" href="Volume-4-Engenharia-Moderna/00-Indice">
+    <span class="volume-card__num">VOL. 04<span class="volume-card__count">21 capítulos</span></span>
+    <span class="volume-card__title">Engenharia Moderna</span>
+    <span class="volume-card__desc">DevOps, cloud, observabilidade, segurança, performance e IA aplicada ao dia a dia.</span>
+    <span class="volume-card__topics">Capítulos 84 a 104</span>
   </a>
 
-  <a href="Volume-5-Carreira-e-Projeto-Integrador/00-Indice" class="internal callout" style="text-decoration: none; display: block; margin: 0;">
-    <h3 style="margin-top: 0; color: var(--secondary);">📓 Vol. 5: Carreira</h3>
-    <p style="margin-bottom: 0; font-size: 0.9rem; color: var(--gray);">O projeto SaborExpress completo, processos seletivos e evolução.</p>
+  <a class="volume-card" href="Volume-5-Carreira-e-Projeto-Integrador/00-Indice">
+    <span class="volume-card__num">VOL. 05<span class="volume-card__count">15 capítulos</span></span>
+    <span class="volume-card__title">Carreira e Projeto Integrador</span>
+    <span class="volume-card__desc">O projeto SaborExpress completo, processos seletivos, salário e plano de carreira.</span>
+    <span class="volume-card__topics">Capítulos 105 a 119</span>
   </a>
 
-  <a href="Volume-6-Manual-de-Bolso/00-Indice" class="internal callout" style="text-decoration: none; display: block; margin: 0;">
-    <h3 style="margin-top: 0; color: var(--secondary);">🧰 Vol. 6: Guia Rápido</h3>
-    <p style="margin-bottom: 0; font-size: 0.9rem; color: var(--gray);">Referência de comandos, Docker, SQL, checklists e boas práticas.</p>
+  <a class="volume-card" href="Volume-6-Manual-de-Bolso/00-Indice">
+    <span class="volume-card__num">VOL. 06<span class="volume-card__count">10 fichas</span></span>
+    <span class="volume-card__title">Manual de Bolso</span>
+    <span class="volume-card__desc">Referência rápida de Git, terminal, Docker, SQL, HTTP, checklists e boas práticas.</span>
+    <span class="volume-card__topics">Consulta rápida</span>
   </a>
 
 </div>
 
-<div class="reveal-element" style="text-align: center; margin: 4rem 0 2rem 0; color: var(--gray); font-size: 0.9rem;">
-  <em>Coleção autoral · 6 volumes · 119 capítulos · Inclui Projeto Integrador</em>
-</div>
+<p class="home-section-title">Como usar</p>
+
+> [!tip] Três formas de ler
+> **Do começo ao fim**, se você está iniciando: cada volume assume o anterior.
+> **Por assunto**, usando a busca (Ctrl+K) ou o explorador à esquerda.
+> **Como consulta**, indo direto ao [Manual de Bolso](Volume-6-Manual-de-Bolso/00-Indice) quando precisar lembrar um comando.
+
+<p class="home-note">
+  Todo capítulo traz objetivos de aprendizagem, tempo médio de estudo, nível de
+  dificuldade, pré-requisitos e uma analogia antes da teoria.
+</p>

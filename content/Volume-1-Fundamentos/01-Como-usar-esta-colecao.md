@@ -1,3 +1,7 @@
+---
+title: '1 - Como usar esta coleção'
+---
+
 # Capítulo 1 — Como usar esta coleção
 
 > **Volume 1 — Fundamentos e Mentalidade** · Módulo 0 — Mentalidade e método de estudo

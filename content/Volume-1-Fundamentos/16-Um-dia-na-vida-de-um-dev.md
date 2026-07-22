@@ -1,3 +1,7 @@
+---
+title: '16 - Um dia na vida de um dev (hora a hora)'
+---
+
 # Capítulo 16 — Um dia na vida de um dev (hora a hora)
 
 > **Volume 1 — Fundamentos e Mentalidade** · Módulo 3 — O dia a dia e os bastidores

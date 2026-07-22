@@ -1,3 +1,7 @@
+---
+title: '62 - Branches, merge, conflitos e estratégias'
+---
+
 # Capítulo 62 — Branches, merge, conflitos e estratégias
 
 > **Volume 3 — Desenvolvimento de Software** · Módulo 17 — Git

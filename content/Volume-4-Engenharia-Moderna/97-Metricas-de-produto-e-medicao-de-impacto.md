@@ -1,3 +1,7 @@
+---
+title: '97 - Métricas de produto e medição de impacto'
+---
+
 # Capítulo 97 — Métricas de produto e medição de impacto
 
 > **Volume 4 — Engenharia Moderna** · Módulo 29 — Engenharia Experimental

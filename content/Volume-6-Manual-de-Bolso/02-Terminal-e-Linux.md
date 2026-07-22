@@ -1,3 +1,7 @@
+---
+title: '02 - Terminal e Linux (referência rápida)'
+---
+
 # 02 — Terminal e Linux (referência rápida)
 
 > Manual de Bolso · Volume 6. Entenda o porquê nos capítulos de SO/Linux do Volume 2.

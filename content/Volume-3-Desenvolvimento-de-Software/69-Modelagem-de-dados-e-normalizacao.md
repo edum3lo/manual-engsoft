@@ -1,3 +1,7 @@
+---
+title: '69 - Modelagem de dados e normalização'
+---
+
 # Capítulo 69 — Modelagem de dados e normalização
 
 > **Volume 3 — Desenvolvimento de Software** · Módulo 20 — Banco de Dados

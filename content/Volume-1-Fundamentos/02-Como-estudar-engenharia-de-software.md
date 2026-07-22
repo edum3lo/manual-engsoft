@@ -1,3 +1,7 @@
+---
+title: '2 - Como estudar Engenharia de Software'
+---
+
 # Capítulo 2 — Como estudar Engenharia de Software
 
 > **Volume 1 — Fundamentos e Mentalidade** · Módulo 0 — Mentalidade e método de estudo

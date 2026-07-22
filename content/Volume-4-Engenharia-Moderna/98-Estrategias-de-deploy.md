@@ -1,3 +1,7 @@
+---
+title: '98 - Estratégias de deploy'
+---
+
 # Capítulo 98 — Estratégias de deploy
 
 > **Volume 4 — Engenharia Moderna** · Módulo 30 — Práticas modernas de entrega

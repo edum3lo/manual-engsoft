@@ -1,3 +1,7 @@
+---
+title: '39 - Engenharia reversa: entrar num projeto de 500 mil linhas ⭐'
+---
+
 # Capítulo 39 — Engenharia reversa: entrar num projeto de 500 mil linhas ⭐
 
 > **Volume 2 — A Base da Computação** · Módulo 11 — Ler código e documentação

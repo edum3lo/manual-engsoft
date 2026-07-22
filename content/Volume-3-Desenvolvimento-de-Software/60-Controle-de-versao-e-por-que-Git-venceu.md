@@ -1,3 +1,7 @@
+---
+title: '60 - Controle de versão e por que Git venceu'
+---
+
 # Capítulo 60 — Controle de versão e por que Git venceu
 
 > **Volume 3 — Desenvolvimento de Software** · Módulo 17 — Git

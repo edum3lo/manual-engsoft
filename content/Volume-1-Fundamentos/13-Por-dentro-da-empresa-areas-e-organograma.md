@@ -1,3 +1,7 @@
+---
+title: '13 - Por dentro da empresa: áreas e organograma'
+---
+
 # Capítulo 13 — Por dentro da empresa: áreas e organograma
 
 > **Volume 1 — Fundamentos e Mentalidade** · Módulo 2 — Como funciona uma empresa de tecnologia

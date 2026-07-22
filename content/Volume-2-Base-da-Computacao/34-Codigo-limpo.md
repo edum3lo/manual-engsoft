@@ -1,3 +1,7 @@
+---
+title: '34 - Código limpo (Clean Code)'
+---
+
 # Capítulo 34 — Código limpo (Clean Code)
 
 > **Volume 2 — A Base da Computação** · Módulo 9 — Qualidade de código e princípios de design

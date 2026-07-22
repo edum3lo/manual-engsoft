@@ -1,3 +1,7 @@
+---
+title: '50 - Fundamentos de UX e pesquisa com usuários'
+---
+
 # Capítulo 50 — Fundamentos de UX e pesquisa com usuários
 
 > **Volume 3 — Desenvolvimento de Software** · Módulo 14 — UX e Design de Produto

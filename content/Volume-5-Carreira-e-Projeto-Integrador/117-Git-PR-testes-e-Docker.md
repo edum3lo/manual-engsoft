@@ -1,3 +1,7 @@
+---
+title: '117 - Projeto Integrador (4/5): Git, PR, testes e Docker'
+---
+
 # Capítulo 117 — Projeto Integrador (4/5): Git, PR, testes e Docker
 
 > **Volume 5 — Carreira e Projeto Integrador** · Módulo 36 — Projeto Integrador: SaborExpress do zero à produção

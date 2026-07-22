@@ -1,3 +1,7 @@
+---
+title: '32 - Algoritmos e complexidade (Big O sem medo)'
+---
+
 # Capítulo 32 — Algoritmos e complexidade (Big O sem medo)
 
 > **Volume 2 — A Base da Computação** · Módulo 8 — Lógica e Programação

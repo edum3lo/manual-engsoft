@@ -1,3 +1,7 @@
+---
+title: '107 - Como aprender sozinho, estudar e pesquisar'
+---
+
 # Capítulo 107 — Como aprender sozinho, estudar e pesquisar
 
 > **Volume 5 — Carreira e Projeto Integrador** · Módulo 34 — Desenvolvimento Profissional

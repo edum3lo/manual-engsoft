@@ -1,3 +1,7 @@
+---
+title: '7 - O que é software, afinal?'
+---
+
 # Capítulo 7 — O que é software, afinal?
 
 > **Volume 1 — Fundamentos e Mentalidade** · Módulo 1 — O que é ser um Engenheiro de Software

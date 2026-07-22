@@ -1,3 +1,7 @@
+---
+title: '47 - Elicitação, personas e jornada do usuário'
+---
+
 # Capítulo 47 — Elicitação, personas e jornada do usuário
 
 > **Volume 3 — Desenvolvimento de Software** · Módulo 13 — Engenharia de Requisitos

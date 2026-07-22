@@ -1,3 +1,7 @@
+---
+title: '07 - Checklists do dia a dia'
+---
+
 # 07 — Checklists do dia a dia
 
 > Manual de Bolso · Volume 6. Listas rápidas para passar os olhos antes de agir. "Esqueci de alguma coisa?"

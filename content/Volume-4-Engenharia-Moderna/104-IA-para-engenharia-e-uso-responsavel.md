@@ -1,3 +1,7 @@
+---
+title: '104 - IA para engenharia e uso responsável'
+---
+
 # Capítulo 104 — IA para engenharia e uso responsável
 
 > **Volume 4 — Engenharia Moderna** · Módulo 32 — Inteligência Artificial para engenheiros

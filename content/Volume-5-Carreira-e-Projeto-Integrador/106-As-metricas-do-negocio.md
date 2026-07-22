@@ -1,3 +1,7 @@
+---
+title: '106 - As métricas do negócio: CAC, LTV, churn, ROI, KPIs'
+---
+
 # Capítulo 106 — As métricas do negócio: CAC, LTV, churn, ROI, KPIs
 
 > **Volume 5 — Carreira e Projeto Integrador** · Módulo 33 — Engenharia Financeira do Software

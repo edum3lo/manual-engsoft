@@ -1,3 +1,7 @@
+---
+title: '21 - O que é um sistema operacional e o kernel'
+---
+
 # Capítulo 21 — O que é um sistema operacional e o kernel
 
 > **Volume 2 — A Base da Computação** · Módulo 5 — Sistemas Operacionais

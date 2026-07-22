@@ -1,3 +1,7 @@
+---
+title: '83 - QA, bugs e o ciclo de correção'
+---
+
 # Capítulo 83 — QA, bugs e o ciclo de correção
 
 > **Volume 3 — Desenvolvimento de Software** · Módulo 24 — Testes e Qualidade

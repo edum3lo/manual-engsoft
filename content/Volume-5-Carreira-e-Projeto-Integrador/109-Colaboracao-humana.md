@@ -1,3 +1,7 @@
+---
+title: '109 - Colaboração humana: revisar código, dar e receber feedback, pedir ajuda'
+---
+
 # Capítulo 109 — Colaboração humana: revisar código, dar e receber feedback, pedir ajuda
 
 > **Volume 5 — Carreira e Projeto Integrador** · Módulo 34 — Desenvolvimento Profissional

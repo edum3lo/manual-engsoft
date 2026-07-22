@@ -1,3 +1,7 @@
+---
+title: '93 - Cache, CDN e balanceador de carga'
+---
+
 # Capítulo 93 — Cache, CDN e balanceador de carga
 
 > **Volume 4 — Engenharia Moderna** · Módulo 28 — Escalabilidade

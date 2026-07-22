@@ -1,3 +1,7 @@
+---
+title: '111 - O processo seletivo: testes técnicos, live coding, pair programming ⭐'
+---
+
 # Capítulo 111 — O processo seletivo: testes técnicos, live coding, pair programming ⭐
 
 > **Volume 5 — Carreira e Projeto Integrador** · Módulo 35 — Mercado e Entrevistas Técnicas

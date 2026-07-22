@@ -1,3 +1,7 @@
+---
+title: '22 - Processos, threads e memória RAM'
+---
+
 # Capítulo 22 — Processos, threads e memória RAM
 
 > **Volume 2 — A Base da Computação** · Módulo 5 — Sistemas Operacionais

@@ -1,3 +1,7 @@
+---
+title: '103 - RAG, fine-tuning, agentes e MCP'
+---
+
 # Capítulo 103 — RAG, fine-tuning, agentes e MCP
 
 > **Volume 4 — Engenharia Moderna** · Módulo 32 — Inteligência Artificial para engenheiros

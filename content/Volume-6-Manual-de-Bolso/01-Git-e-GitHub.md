@@ -1,3 +1,7 @@
+---
+title: '01 - Git e GitHub (referência rápida)'
+---
+
 # 01 — Git e GitHub (referência rápida)
 
 > Manual de Bolso · Volume 6. Entenda o porquê em [[61-Git-no-dia-a-dia]], [[62-Branches-merge-conflitos-e-estrategias]], [[64-Pull-Requests-code-review-e-issues]].

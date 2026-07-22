@@ -1,3 +1,7 @@
+---
+title: '6 - Como criar projetos enquanto lê'
+---
+
 # Capítulo 6 — Como criar projetos enquanto lê
 
 > **Volume 1 — Fundamentos e Mentalidade** · Módulo 0 — Mentalidade e método de estudo

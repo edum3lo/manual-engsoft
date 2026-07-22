@@ -1,3 +1,7 @@
+---
+title: '48 - Histórias de usuário, casos de uso e critérios de aceitação'
+---
+
 # Capítulo 48 — Histórias de usuário, casos de uso e critérios de aceitação
 
 > **Volume 3 — Desenvolvimento de Software** · Módulo 13 — Engenharia de Requisitos

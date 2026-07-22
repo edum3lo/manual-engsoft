@@ -1,3 +1,7 @@
+---
+title: 'Índice do Volume 6'
+---
+
 # Volume 6 — Manual de Bolso do Engenheiro
 
 > Coleção: *Do Estudante ao Engenheiro de Software*

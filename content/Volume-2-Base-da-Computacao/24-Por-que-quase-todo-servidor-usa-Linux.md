@@ -1,3 +1,7 @@
+---
+title: '24 - Por que quase todo servidor usa Linux'
+---
+
 # Capítulo 24 — Por que quase todo servidor usa Linux
 
 > **Volume 2 — A Base da Computação** · Módulo 6 — Linux e o terminal

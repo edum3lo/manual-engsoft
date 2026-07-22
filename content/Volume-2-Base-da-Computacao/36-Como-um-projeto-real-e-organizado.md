@@ -1,3 +1,7 @@
+---
+title: '36 - Como um projeto real é organizado ⭐'
+---
+
 # Capítulo 36 — Como um projeto real é organizado ⭐
 
 > **Volume 2 — A Base da Computação** · Módulo 10 — Por dentro do código

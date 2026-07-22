@@ -1,3 +1,7 @@
+---
+title: '06 - Glossário técnico rápido'
+---
+
 # 06 — Glossário técnico rápido
 
 > Manual de Bolso · Volume 6. Definições curtas dos termos que você mais ouve na empresa. Para o aprofundamento, cada termo aponta para o capítulo que o ensina.

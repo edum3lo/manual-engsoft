@@ -1,3 +1,7 @@
+---
+title: '58 - MVC, camadas e separação de responsabilidades'
+---
+
 # Capítulo 58 — MVC, camadas e separação de responsabilidades
 
 > **Volume 3 — Desenvolvimento de Software** · Módulo 16 — Arquitetura de Software

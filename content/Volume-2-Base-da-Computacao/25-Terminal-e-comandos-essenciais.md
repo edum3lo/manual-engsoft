@@ -1,3 +1,7 @@
+---
+title: '25 - Terminal e comandos essenciais'
+---
+
 # Capítulo 25 — Terminal e comandos essenciais
 
 > **Volume 2 — A Base da Computação** · Módulo 6 — Linux e o terminal

@@ -1,3 +1,7 @@
+---
+title: '118 - Projeto Integrador (5/5): deploy, cloud, produção e monitoramento — o ciclo se fecha ⭐'
+---
+
 # Capítulo 118 — Projeto Integrador (5/5): deploy, cloud, produção e monitoramento — o ciclo se fecha ⭐
 
 > **Volume 5 — Carreira e Projeto Integrador** · Módulo 36 — Projeto Integrador: SaborExpress do zero à produção

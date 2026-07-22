@@ -1,3 +1,7 @@
+---
+title: '35 - Princípios de design e Design Patterns'
+---
+
 # Capítulo 35 — Princípios de design e Design Patterns
 
 > **Volume 2 — A Base da Computação** · Módulo 9 — Qualidade de código e princípios de design

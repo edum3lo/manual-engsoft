@@ -1,3 +1,7 @@
+---
+title: '78 - Ligando o front-end à experiência do usuário'
+---
+
 # Capítulo 78 — Ligando o front-end à experiência do usuário
 
 > **Volume 3 — Desenvolvimento de Software** · Módulo 22 — Front-end

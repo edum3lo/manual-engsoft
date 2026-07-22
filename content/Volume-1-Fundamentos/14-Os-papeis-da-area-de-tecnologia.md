@@ -1,3 +1,7 @@
+---
+title: '14 - Os papéis da área de tecnologia'
+---
+
 # Capítulo 14 — Os papéis da área de tecnologia
 
 > **Volume 1 — Fundamentos e Mentalidade** · Módulo 2 — Como funciona uma empresa de tecnologia

@@ -1,3 +1,7 @@
+---
+title: '54 - Por que modelar antes de programar; UML visão geral'
+---
+
 # Capítulo 54 — Por que modelar antes de programar; UML visão geral
 
 > **Volume 3 — Desenvolvimento de Software** · Módulo 15 — Modelagem e Análise

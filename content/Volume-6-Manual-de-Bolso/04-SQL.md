@@ -1,3 +1,7 @@
+---
+title: '04 - SQL (referência rápida)'
+---
+
 # 04 — SQL (referência rápida)
 
 > Manual de Bolso · Volume 6. Entenda o porquê em [[68-SQL-na-pratica]], [[69-Modelagem-de-dados-e-normalizacao]], [[71-Confiabilidade-e-escala-do-banco]].

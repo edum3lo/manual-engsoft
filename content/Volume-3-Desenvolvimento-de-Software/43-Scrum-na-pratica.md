@@ -1,3 +1,7 @@
+---
+title: '43 - Scrum na prática'
+---
+
 # Capítulo 43 — Scrum na prática
 
 > **Volume 3 — Desenvolvimento de Software** · Módulo 12 — Processos e Metodologias

@@ -1,3 +1,7 @@
+---
+title: '40 - Localizando bugs e descobrindo a arquitetura de um sistema existente'
+---
+
 # Capítulo 40 — Localizando bugs e descobrindo a arquitetura de um sistema existente
 
 > **Volume 2 — A Base da Computação** · Módulo 11 — Ler código e documentação

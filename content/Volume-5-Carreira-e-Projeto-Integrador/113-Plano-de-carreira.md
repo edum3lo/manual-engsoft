@@ -1,3 +1,7 @@
+---
+title: '113 - Plano de carreira: júnior → pleno → sênior → especialista/liderança'
+---
+
 # Capítulo 113 — Plano de carreira: júnior → pleno → sênior → especialista/liderança
 
 > **Volume 5 — Carreira e Projeto Integrador** · Módulo 35 — Mercado e Entrevistas Técnicas

@@ -1,3 +1,7 @@
+---
+title: '15 - Como a empresa cria produto, lança, cresce e escala'
+---
+
 # Capítulo 15 — Como a empresa cria produto, lança, cresce e escala
 
 > **Volume 1 — Fundamentos e Mentalidade** · Módulo 2 — Como funciona uma empresa de tecnologia

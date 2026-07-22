@@ -1,3 +1,7 @@
+---
+title: '11 - Como tudo se conecta'
+---
+
 # Capítulo 11 — Como tudo se conecta
 
 > **Volume 1 — Fundamentos e Mentalidade** · Módulo 1 — O que é ser um Engenheiro de Software

@@ -1,3 +1,7 @@
+---
+title: '5 - Como tirar o máximo dos exercícios'
+---
+
 # Capítulo 5 — Como tirar o máximo dos exercícios
 
 > **Volume 1 — Fundamentos e Mentalidade** · Módulo 0 — Mentalidade e método de estudo

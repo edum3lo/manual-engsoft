@@ -1,3 +1,7 @@
+---
+title: '30 - Lógica de programação sem trauma'
+---
+
 # Capítulo 30 — Lógica de programação sem trauma
 
 > **Volume 2 — A Base da Computação** · Módulo 8 — Lógica e Programação

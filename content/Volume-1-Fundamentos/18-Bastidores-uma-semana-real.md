@@ -1,3 +1,7 @@
+---
+title: '18 - Bastidores: uma semana real'
+---
+
 # Capítulo 18 — Bastidores: uma semana real
 
 > **Volume 1 — Fundamentos e Mentalidade** · Módulo 3 — O dia a dia e os bastidores

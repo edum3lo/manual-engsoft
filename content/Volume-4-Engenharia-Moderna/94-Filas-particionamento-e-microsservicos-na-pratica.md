@@ -1,3 +1,7 @@
+---
+title: '94 - Filas, particionamento e microsserviços na prática'
+---
+
 # Capítulo 94 — Filas, particionamento e microsserviços na prática
 
 > **Volume 4 — Engenharia Moderna** · Módulo 28 — Escalabilidade

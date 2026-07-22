@@ -1,3 +1,7 @@
+---
+title: '95 - Software guiado por hipóteses e dados ⭐'
+---
+
 # Capítulo 95 — Software guiado por hipóteses e dados ⭐
 
 > **Volume 4 — Engenharia Moderna** · Módulo 29 — Engenharia Experimental

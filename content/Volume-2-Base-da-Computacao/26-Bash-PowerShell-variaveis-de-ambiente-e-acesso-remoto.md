@@ -1,3 +1,7 @@
+---
+title: '26 - Bash, PowerShell, variáveis de ambiente e acesso remoto'
+---
+
 # Capítulo 26 — Bash, PowerShell, variáveis de ambiente e acesso remoto
 
 > **Volume 2 — A Base da Computação** · Módulo 6 — Linux e o terminal

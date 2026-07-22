@@ -1,3 +1,7 @@
+---
+title: '4 - Como usar IA sem se tornar dependente'
+---
+
 # Capítulo 4 — Como usar IA sem se tornar dependente
 
 > **Volume 1 — Fundamentos e Mentalidade** · Módulo 0 — Mentalidade e método de estudo

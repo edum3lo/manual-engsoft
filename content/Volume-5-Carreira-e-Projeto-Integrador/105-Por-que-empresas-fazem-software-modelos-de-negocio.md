@@ -1,3 +1,7 @@
+---
+title: '105 - Por que empresas fazem software; modelos de negócio'
+---
+
 # Capítulo 105 — Por que empresas fazem software; modelos de negócio
 
 > **Volume 5 — Carreira e Projeto Integrador** · Módulo 33 — Engenharia Financeira do Software

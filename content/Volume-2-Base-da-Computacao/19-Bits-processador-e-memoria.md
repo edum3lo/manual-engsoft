@@ -1,3 +1,7 @@
+---
+title: '19 - Bits, processador e memória'
+---
+
 # Capítulo 19 — Bits, processador e memória
 
 > **Volume 2 — A Base da Computação** · Módulo 4 — Como o computador funciona

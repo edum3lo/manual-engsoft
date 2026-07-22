@@ -1,3 +1,7 @@
+---
+title: '38 - Como ler documentação ⭐'
+---
+
 # Capítulo 38 — Como ler documentação ⭐
 
 > **Volume 2 — A Base da Computação** · Módulo 11 — Ler código e documentação

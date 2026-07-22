@@ -1,3 +1,7 @@
+---
+title: '71 - Confiabilidade e escala do banco'
+---
+
 # Capítulo 71 — Confiabilidade e escala do banco
 
 > **Volume 3 — Desenvolvimento de Software** · Módulo 20 — Banco de Dados

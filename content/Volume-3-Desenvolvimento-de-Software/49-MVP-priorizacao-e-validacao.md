@@ -1,3 +1,7 @@
+---
+title: '49 - MVP, priorização e validação'
+---
+
 # Capítulo 49 — MVP, priorização e validação
 
 > **Volume 3 — Desenvolvimento de Software** · Módulo 13 — Engenharia de Requisitos

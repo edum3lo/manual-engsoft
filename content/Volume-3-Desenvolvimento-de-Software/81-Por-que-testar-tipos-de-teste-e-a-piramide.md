@@ -1,3 +1,7 @@
+---
+title: '81 - Por que testar: tipos de teste e a pirâmide'
+---
+
 # Capítulo 81 — Por que testar: tipos de teste e a pirâmide
 
 > **Volume 3 — Desenvolvimento de Software** · Módulo 24 — Testes e Qualidade

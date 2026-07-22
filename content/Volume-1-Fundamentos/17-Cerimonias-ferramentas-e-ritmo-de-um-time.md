@@ -1,3 +1,7 @@
+---
+title: '17 - Cerimônias, ferramentas e ritmo de um time'
+---
+
 # Capítulo 17 — Cerimônias, ferramentas e ritmo de um time
 
 > **Volume 1 — Fundamentos e Mentalidade** · Módulo 3 — O dia a dia e os bastidores

@@ -1,3 +1,7 @@
+---
+title: '05 - HTTP, APIs e REST (referência rápida)'
+---
+
 # 05 — HTTP, APIs e REST (referência rápida)
 
 > Manual de Bolso · Volume 6. Entenda o porquê em [[72-O-que-e-uma-API-HTTP-REST-e-JSON]], [[73-Autenticacao-e-autorizacao]].
