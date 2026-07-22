@@ -28,32 +28,32 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "Outfit",
+        body: "Inter",
+        code: "JetBrains Mono",
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
+          light: "#ffffff",
           lightgray: "#e5e5e5",
           gray: "#b8b8b8",
           darkgray: "#4e4e4e",
           dark: "#2b2b2b",
-          secondary: "#1f6feb", // azul dos links/destaques
-          tertiary: "#84a59d",
-          highlight: "rgba(31, 111, 235, 0.10)",
+          secondary: "#2563eb", // Tailwind Blue 600
+          tertiary: "#3b82f6", // Tailwind Blue 500
+          highlight: "rgba(37, 99, 235, 0.1)",
           textHighlight: "#fff23688",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#58a6ff",
-          tertiary: "#84a59d",
-          highlight: "rgba(88, 166, 255, 0.12)",
-          textHighlight: "#b3aa0288",
+          light: "#09090b", // Deep black background (zinc-950)
+          lightgray: "#27272a", // zinc-800 for borders
+          gray: "#71717a", // zinc-500 for muted text
+          darkgray: "#d4d4d4", // Main body text
+          dark: "#f4f4f5", // Bright headers
+          secondary: "#3b82f6", // Vibrant blue
+          tertiary: "#60a5fa", // Lighter blue
+          highlight: "rgba(59, 130, 246, 0.15)", // Translucent blue highlight
+          textHighlight: "rgba(59, 130, 246, 0.4)",
         },
       },
     },
