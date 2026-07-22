@@ -2,23 +2,28 @@ import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
 /**
- * Quartz 4 Configuration
+ * Configuração do Quartz para a coleção
+ * "Do Estudante ao Engenheiro de Software".
  *
- * See https://quartz.jzhao.xyz/configuration for more information.
+ * → Substitua o quartz.config.ts padrão do seu Quartz por este arquivo.
+ * → Edite o `baseUrl` abaixo com o endereço do seu site.
+ *
+ * ⚠️ Se o build reclamar (o Quartz muda de versão às vezes), use o caminho
+ *    seguro: mantenha o config ORIGINAL do seu Quartz e altere só, no bloco
+ *    `configuration`, o `pageTitle`, o `locale: "pt-BR"` e o `baseUrl`.
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "Do Estudante ao Engenheiro de Software",
     pageTitleSuffix: "",
     enableSPA: true,
-    enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
-    locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    enablePopovers: true, // pré-visualização ao passar o mouse nos links
+    analytics: null, // sem rastreamento (troque por Plausible/Umami se quiser)
+    locale: "pt-BR",
+    // 👇 EDITE AQUI com o endereço do seu site (sem https://):
+    baseUrl: "edum3lo.github.io/manual-engsoft",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "modified",
+    defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
@@ -34,9 +39,9 @@ const config: QuartzConfig = {
           gray: "#b8b8b8",
           darkgray: "#4e4e4e",
           dark: "#2b2b2b",
-          secondary: "#284b63",
+          secondary: "#1f6feb", // azul dos links/destaques
           tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          highlight: "rgba(31, 111, 235, 0.10)",
           textHighlight: "#fff23688",
         },
         darkMode: {
@@ -45,9 +50,9 @@ const config: QuartzConfig = {
           gray: "#646464",
           darkgray: "#d4d4d4",
           dark: "#ebebec",
-          secondary: "#7b97aa",
+          secondary: "#58a6ff",
           tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          highlight: "rgba(88, 166, 255, 0.12)",
           textHighlight: "#b3aa0288",
         },
       },
@@ -57,7 +62,7 @@ const config: QuartzConfig = {
     transformers: [
       Plugin.FrontMatter(),
       Plugin.CreatedModifiedDate({
-        priority: ["frontmatter", "git", "filesystem"],
+        priority: ["frontmatter", "filesystem"],
       }),
       Plugin.SyntaxHighlighting({
         theme: {
@@ -66,9 +71,11 @@ const config: QuartzConfig = {
         },
         keepBackground: false,
       }),
+      // 👇 este plugin é o que faz os [[wiki-links]] da coleção funcionarem
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
+      // "shortest": resolve [[73-Autenticacao...]] achando o arquivo pelo nome
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
@@ -86,10 +93,7 @@ const config: QuartzConfig = {
       }),
       Plugin.Assets(),
       Plugin.Static(),
-      Plugin.Favicon(),
       Plugin.NotFoundPage(),
-      // Comment out CustomOgImages to speed up build time
-      Plugin.CustomOgImages(),
     ],
   },
 }

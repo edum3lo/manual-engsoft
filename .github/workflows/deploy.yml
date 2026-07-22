@@ -1,0 +1,50 @@
+# Publica o site do Quartz no GitHub Pages automaticamente.
+# → Copie este arquivo para: .github/workflows/deploy.yml (na raiz do seu projeto Quartz).
+# O build roda AQUI na nuvem (não na sua máquina), então você não precisa buildar no WSL.
+
+name: Deploy Quartz site to GitHub Pages
+
+on:
+  push:
+    branches:
+      - v4     # branch padrão do Quartz
+      - main   # caso você use main
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # necessário para as datas de "última modificação"
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Instalar dependências
+        run: npm ci
+      - name: Construir o Quartz
+        run: npx quartz build
+      - name: Enviar artefato
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+  deploy:
+    needs: build
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Publicar no GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
