@@ -1,94 +1,53 @@
 ---
-title: "Meu Guia de Sobrevivência Dev"
+title: Do Estudante ao Engenheiro de Software
 ---
 
-<section class="home-hero">
-  <span class="home-hero__badge">Base de Conhecimento Pessoal · 6 Volumes</span>
-  <h1>Um guia de sobrevivência para não se perder na <span class="home-hero__accent">Engenharia de Software</span>.</h1>
-  <p class="home-hero__lead">
-    Nasceu como meu "segundo cérebro" para consultar comandos, processos e fundamentos que a gente esquece no dia a dia de desenvolvedor. Agora, é um repositório aberto para ajudar a comunidade!
-  </p>
-  <div class="home-cta">
-    <a class="btn btn--primary" href="Volume-1-Fundamentos/00-Indice">Explorar os volumes</a>
-    <a class="btn btn--ghost" href="Volume-6-Manual-de-Bolso/00-Indice">Consulta Rápida (Comandos)</a>
-  </div>
-</section>
+# Do Estudante ao Engenheiro de Software
 
-<div class="home-stats">
-  <div class="home-stat">
-    <span class="home-stat__value">6</span>
-    <span class="home-stat__label">Volumes</span>
-  </div>
-  <div class="home-stat">
-    <span class="home-stat__value">119</span>
-    <span class="home-stat__label">Capítulos</span>
-  </div>
-  <div class="home-stat">
-    <span class="home-stat__value">10</span>
-    <span class="home-stat__label">Fichas de bolso</span>
-  </div>
-  <div class="home-stat">
-    <span class="home-stat__value">1</span>
-    <span class="home-stat__label">Projeto integrador</span>
-  </div>
-</div>
+> Uma coleção completa e autoral: **do zero ao mercado**, da mentalidade ao primeiro emprego. **119 capítulos**, 7 volumes, um único fio condutor — a **SaborExpress**, um app de delivery que nasce de uma ideia e chega à produção atendendo milhões.
 
-<p class="home-section-title">Os volumes</p>
+Bem-vindo(a). Este é um manual que preenche o buraco entre a teoria da faculdade e a prática do mercado. Cada conceito é explicado do zero, com analogia, exemplo real, erros comuns e exercícios. Use o **menu lateral** para navegar por volume, ou a **busca** (atalho `Ctrl/Cmd + K`) para achar qualquer assunto.
 
-<div class="volume-grid">
+---
 
-  <a class="volume-card" href="Volume-1-Fundamentos/00-Indice">
-    <span class="volume-card__num">VOL. 01<span class="volume-card__count">18 capítulos</span></span>
-    <span class="volume-card__title">Fundamentos</span>
-    <span class="volume-card__desc">O que é a profissão, como uma empresa de software funciona e a mentalidade certa para começar.</span>
-    <span class="volume-card__topics">Capítulos 1 a 18</span>
-  </a>
+## 📚 Os volumes
 
-  <a class="volume-card" href="Volume-2-Base-da-Computacao/00-Indice">
-    <span class="volume-card__num">VOL. 02<span class="volume-card__count">22 capítulos</span></span>
-    <span class="volume-card__title">Base da Computação</span>
-    <span class="volume-card__desc">Sistemas operacionais, redes, lógica, estruturas de dados e a arte de ler código dos outros.</span>
-    <span class="volume-card__topics">Capítulos 19 a 40</span>
-  </a>
+**📘 [Volume 1 — Fundamentos e Mentalidade](Volume-1-Fundamentos/00-Indice)**
+Como estudar, o que é a profissão, como a empresa funciona e como é um dia real de trabalho. *(Capítulos 1–18)*
 
-  <a class="volume-card" href="Volume-3-Desenvolvimento-de-Software/00-Indice">
-    <span class="volume-card__num">VOL. 03<span class="volume-card__count">43 capítulos</span></span>
-    <span class="volume-card__title">Desenvolvimento de Software</span>
-    <span class="volume-card__desc">Do requisito ao deploy: processo, UX, arquitetura, Git, banco de dados, API e testes.</span>
-    <span class="volume-card__topics">Capítulos 41 a 83</span>
-  </a>
+**📗 [Volume 2 — A Base da Computação](Volume-2-Base-da-Computacao/00-Indice)**
+A máquina, o SO, o Linux, as redes, a lógica e a arte de ler código. *(Capítulos 19–40)*
 
-  <a class="volume-card" href="Volume-4-Engenharia-Moderna/00-Indice">
-    <span class="volume-card__num">VOL. 04<span class="volume-card__count">21 capítulos</span></span>
-    <span class="volume-card__title">Engenharia Moderna</span>
-    <span class="volume-card__desc">DevOps, cloud, observabilidade, segurança, performance e IA aplicada ao dia a dia.</span>
-    <span class="volume-card__topics">Capítulos 84 a 104</span>
-  </a>
+**📙 [Volume 3 — Desenvolvimento de Software](Volume-3-Desenvolvimento-de-Software/00-Indice)**
+Do requisito ao deploy: processos, UX, arquitetura, Git, banco, API, front, back e testes. *(Capítulos 41–83)*
 
-  <a class="volume-card" href="Volume-5-Carreira-e-Projeto-Integrador/00-Indice">
-    <span class="volume-card__num">VOL. 05<span class="volume-card__count">15 capítulos</span></span>
-    <span class="volume-card__title">Carreira e Projeto Integrador</span>
-    <span class="volume-card__desc">O projeto SaborExpress completo, processos seletivos, salário e plano de carreira.</span>
-    <span class="volume-card__topics">Capítulos 105 a 119</span>
-  </a>
+**📕 [Volume 4 — Engenharia Moderna](Volume-4-Engenharia-Moderna/00-Indice)**
+DevOps, cloud, observabilidade, escalabilidade, experimentação, segurança e IA. *(Capítulos 84–104)*
 
-  <a class="volume-card" href="Volume-6-Manual-de-Bolso/00-Indice">
-    <span class="volume-card__num">VOL. 06<span class="volume-card__count">10 fichas</span></span>
-    <span class="volume-card__title">Manual de Bolso</span>
-    <span class="volume-card__desc">Referência rápida de Git, terminal, Docker, SQL, HTTP, checklists e boas práticas.</span>
-    <span class="volume-card__topics">Consulta rápida</span>
-  </a>
+**📓 [Volume 5 — Carreira e Projeto Integrador](Volume-5-Carreira-e-Projeto-Integrador/00-Indice)**
+O negócio, o desenvolvimento profissional, o mercado, o projeto completo e o seu futuro. *(Capítulos 105–119)*
 
-</div>
+**🧰 [Volume 6 — Manual de Bolso](Volume-6-Manual-de-Bolso/00-Indice)**
+Referência rápida para o dia a dia: comandos (Git, terminal, Docker, SQL, HTTP), glossário, checklists, convenções e o guia do primeiro mês.
 
-<p class="home-section-title">Como usar</p>
+**🎓 [Volume 7 — Manual do NES](Volume-7-Manual-do-NES/00-Indice)**
+O manual operacional da disciplina de projeto integrador: sprint a sprint, o que fazer na primeira semana, como entrar num projeto herdado, reuniões com o Product Owner, artefatos exigidos pelo plano de ensino e templates prontos.
 
-> [!tip] Três formas de ler
-> **Do começo ao fim**, se você está iniciando: cada volume assume o anterior.
-> **Por assunto**, usando a busca (Ctrl+K) ou o explorador à esquerda.
-> **Como consulta**, indo direto ao [Manual de Bolso](Volume-6-Manual-de-Bolso/00-Indice) quando precisar lembrar um comando.
+---
 
-<p class="home-note">
-  Todo capítulo traz objetivos de aprendizagem, tempo médio de estudo, nível de
-  dificuldade, pré-requisitos e uma analogia antes da teoria.
-</p>
+## 🧭 Por onde começar
+
+- **Primeira vez?** Leia do **Volume 1** ao **5**, em ordem (capítulos 1 → 119).
+- **Procurando algo específico?** Use a **busca** ou pule direto para o capítulo pelo menu.
+- **Já trabalhando?** O **[Volume 6 — Manual de Bolso](Volume-6-Manual-de-Bolso/00-Indice)** é sua consulta rápida.
+- **Cursando o NES?** O **[Volume 7 — Manual do NES](Volume-7-Manual-do-NES/00-Indice)** é o procedimento da disciplina, do primeiro dia à entrega final.
+
+---
+
+## O fio condutor: SaborExpress
+
+Um único estudo de caso atravessa toda a coleção: a **SaborExpress**, um app de delivery. Você a acompanha de uma ideia na cabeça da fundadora Ana até um sistema robusto, e no **Projeto Integrador** (Volume 5) ela é construída do zero à produção, aplicando tudo o que foi ensinado.
+
+---
+
+*Coleção autoral · 7 volumes · 119 capítulos + Manual de Bolso + Manual do NES.*

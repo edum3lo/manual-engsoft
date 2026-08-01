@@ -45,6 +45,7 @@ export const sharedPageComponents: SharedLayout = {
         { label: "Início", href: "", icon: "home" },
         { label: "Índice geral", href: "Volume-1-Fundamentos/00-Indice", icon: "compass" },
         { label: "Manual de bolso", href: "Volume-6-Manual-de-Bolso/00-Indice", icon: "book" },
+        { label: "Manual do NES", href: "Volume-7-Manual-do-NES/00-Indice", icon: "book" },
         { label: "GitHub", href: "https://github.com/edum3lo", icon: "github" },
       ],
     }),

@@ -1,6 +1,6 @@
 # 📚 Índice Geral da Coleção — *Do Estudante ao Engenheiro de Software*
 
-> Mapa completo dos **6 volumes**. Os volumes **1 a 5** (capítulos 1 a 119) **ensinam**, em ordem, do zero ao mercado; o **Volume 6** é um **manual de bolso** de referência rápida para o dia a dia.
+> Mapa completo dos **7 volumes**. Os volumes **1 a 5** (capítulos 1 a 119) **ensinam**, em ordem, do zero ao mercado; o **Volume 6** é um **manual de bolso** de referência rápida para o dia a dia; o **Volume 7** é o **manual operacional do NES**, a disciplina de projeto integrador da FACOM/UFMS.
 
 ---
 
@@ -14,8 +14,9 @@
 | **4** | [Engenharia Moderna](#-volume-4--engenharia-moderna) | DevOps, cloud, observabilidade, escala, experimentação, segurança, IA | 84–104 |
 | **5** | [Carreira e Projeto Integrador](#-volume-5--carreira-e-projeto-integrador) | Negócio, crescimento, mercado, entrevistas, projeto completo | 105–119 |
 | **6** | [Manual de Bolso](#-volume-6--manual-de-bolso-referência-rápida) | Referência rápida: comandos, glossário, checklists, convenções | 10 folhas |
+| **7** | [Manual do NES](#-volume-7--manual-do-nes-projeto-integrador) | Procedimento da disciplina NES: sprint a sprint, repositório, reuniões, artefatos, stack, templates | 22 capítulos |
 
-**Total: 119 capítulos + 1 manual de bolso · 6 volumes.** Estudo de caso que atravessa tudo: **SaborExpress** (app de delivery).
+**Total: 119 capítulos + manual de bolso + manual do NES · 7 volumes.** Estudo de caso que atravessa tudo: **SaborExpress** (app de delivery).
 
 ---
 
@@ -253,10 +254,39 @@
 
 ---
 
+## 🎓 Volume 7 — Manual do NES (projeto integrador)
+
+> Volume operacional da disciplina **NES** (FACOM/UFMS): sprints de 15 dias, um Product Owner real e um projeto que pode ser novo ou herdado. Não ensina teoria, diz **o que fazer e em que ordem**, alinhado ao plano de ensino da disciplina. → [[00-Indice|Índice do Volume 7]]
+
+- [[01-O-jogo-do-NES]] — **Cap. 01** · Como a disciplina funciona, o que é avaliado, papéis e a síndrome do impostor.
+- [[02-Sprint-0-a-primeira-semana]] — **Cap. 02** ⭐ · Roteiro dia a dia dos primeiros 15 dias.
+- [[03-Projeto-herdado-entrar-num-codigo-que-nao-e-seu]] — **Cap. 03** · Arqueologia de repositório: entender, rodar e diagnosticar.
+- [[04-Projeto-novo-do-zero-ao-primeiro-commit]] — **Cap. 04** · Organização, repositório, stack, estrutura e esqueleto que roda.
+- [[05-Git-e-GitHub-em-equipe-no-NES]] — **Cap. 05** · Fluxo diário, branches, PR, conflitos e comandos de emergência.
+- [[06-Backlog-issues-e-o-quadro-da-sprint]] — **Cap. 06** · Backlog, issues, estimativa, planning e GitHub Projects.
+- [[07-Requisitos-do-proponente-a-user-story]] — **Cap. 07** · Elicitação, RF/RNF, histórias, critérios de aceitação e controle de escopo.
+- [[08-A-reuniao-com-o-proponente]] — **Cap. 08** ⭐ · Roteiro completo da reunião de fim de sprint, do convite à ata.
+- [[09-As-5-sprints-o-que-entregar-em-cada-uma]] — **Cap. 09** ⭐ · Objetivo, entregáveis e riscos de cada etapa, do enablement ao handover.
+- [[10-Cerimonias-e-rotina-da-equipe]] — **Cap. 10** · Planning, daily assíncrona, refinement, retro e o colega que some.
+- [[11-Quando-voce-nao-sabe-o-que-fazer]] — **Cap. 11** ⭐ · Destravar, pedir ajuda, usar IA sem virar refém, frases prontas.
+- [[12-Kit-de-templates-copiaveis]] — **Cap. 12** · README, ata, relatório, MVP Canvas, personas, templates de PR e issue.
+- [[13-Emergencias-e-armadilhas]] — **Cap. 13** · Demo amanhã, main quebrada, escopo explodido, segredo vazado.
+- [[14-Do-plano-de-ensino-ao-artefato]] — **Cap. 14** ⭐ · Cada item do plano de ensino virando artefato, arquivo e prazo, com glossário dos termos.
+- [[15-Arquitetura-C4-ADR-riscos-e-spikes]] — **Cap. 15** · Atributos de qualidade, modelos C4, ADRs, registro de riscos e technical spikes.
+- [[16-Qualidade-DoD-e-Quality-Gate]] — **Cap. 16** · Definition of Done, Quality Gate por sprint, estratégia de qualidade e métricas.
+- [[17-Defesa-aceite-e-handover]] — **Cap. 17** · Seminário técnico, pacote de defesa, banca, termo de aceite e transferência.
+- [[18-Escolhendo-a-stack]] — **Cap. 18** ⭐ · Critérios de escolha com peso, matriz de decisão, combinações que funcionam juntas, banco, hospedagem e mini-casos.
+- [[19-Plano-de-2-dias-para-desenrolar]] — **Cap. 19** ⭐ · Cronograma de 48h com exercícios: mapa do sistema, HTTP e API, SQL mínimo, Git, integração e plano de aprendizado.
+- [[20-Falar-como-dev]] — **Cap. 20** ⭐ · Vocabulário com uso correto, daily em 3 linhas, frases prontas e como responder "em que você é bom?".
+- [[21-Front-end-e-integracao-sem-se-perder]] — **Cap. 21** ⭐ · Modelo mental da integração, contrato de API, os 4 estados de tela e diagnóstico front × back.
+
+---
+
 ## Como navegar
 
 - **Primeira leitura?** Vá do **Volume 1** ao **5**, em ordem (capítulos 1 → 119). Cada volume tem um `00-Indice.md` próprio.
 - **Precisa de algo específico?** Pule direto para o capítulo pelo índice acima, ou consulte o **Volume 6** para comandos e referências rápidas.
+- **Está cursando o NES?** Comece pelo **Volume 7**, que organiza a disciplina inteira e aponta de volta para os capítulos que ensinam cada assunto.
 - **Os `[[links]]`** apontam para os arquivos de cada capítulo/folha.
 - **⭐** = capítulos-âncora (os mais centrais de cada módulo).
 
@@ -268,4 +298,4 @@ Um único estudo de caso — a **SaborExpress**, um app de delivery — atravess
 
 ---
 
-*Índice Geral · 6 volumes · 119 capítulos + Manual de Bolso · Coleção "Do Estudante ao Engenheiro de Software".*
+*Índice Geral · 7 volumes · 119 capítulos + Manual de Bolso + Manual do NES · Coleção "Do Estudante ao Engenheiro de Software".*
